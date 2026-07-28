@@ -1,4 +1,9 @@
-## Hi there 👋
+## HS Class of 2027
+* COO and Lead Developer of Cynapse Labs
+* rust, c#, python, sveltekit
+* Google AI Fundamentals certified
+* working on comptia A+ and sec+ certs
+* Interests: Poker, Chess, Gaming
 
 <!--
 **JudahNyquist/JudahNyquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
