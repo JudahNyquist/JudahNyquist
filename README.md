@@ -3,7 +3,7 @@
 * rust, c#, python, sveltekit
 * Google AI Fundamentals certified
 * working on comptia A+ and sec+ certs
-* Interests: Poker, Chess, Gaming
+* Interests: Poker, Chess, Counter-Strike 2
 
 <!--
 **JudahNyquist/JudahNyquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
