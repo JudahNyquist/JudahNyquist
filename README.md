@@ -1,9 +1,10 @@
 ## HS Class of 2027
+* Aspiring Quantitative Analyst/investor
 * COO and Lead Developer of Cynapse Labs
-* rust, c#, python, sveltekit
+* rust, c#, python, sveltekit, R
 * Google AI Fundamentals certified
 * working on comptia A+ and sec+ certs
-* Interests: Poker, Chess, Counter-Strike 2
+* Interests: Poker, Chess, Finance
 * HTB top 1%
 
 <!--
